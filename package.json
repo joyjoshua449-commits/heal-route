@@ -1,0 +1,14 @@
+{
+  "name": "heal-route",
+  "version": "1.0.0",
+  "description": "A Node.js Express API for Heal Route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joyjoshua449-commits",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
