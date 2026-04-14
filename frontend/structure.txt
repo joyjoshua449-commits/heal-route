@@ -1,0 +1,9 @@
+frontend/
+  ├── public/
+  │   ├── index.html
+  │   └── favicon.ico
+  ├── src/
+  │   ├── App.js
+  │   ├── index.js
+  │   └── components/
+  └── package.json
